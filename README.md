@@ -1,2 +1,5 @@
-# DesignPatternsinMISwithJava
-Design Patterns in Information Management System using Java Language 使用Java语言实现的MIS系统中使用的设计模式案例
+# 背景
+在学习Java语言实现设计模式的过程中，在博客园、CSDN等社区中参考了N多博客文章，这些文章都很优秀，讲明了所述设计模式的实现原理、应用场景、优缺点，但不少文章中的举例有些晦涩，比如直接以设计模式中的角色名称命名的（例如PrototypeClass），或者以无意义字母数字命名的（例如ClassA、ClassB），即使一些文章的示例是电梯、咖啡、房屋中介等生活中的示例，但在理解了之后应用到系统实现上还差一小步。
+我在练习的过程中，以MIS（Information Management System 信息管理系统）为例，以系统中常见的报表服务、数据解析服务等的实现为示例，方便参考理解并移植到所开发的系统中。
+# 说明
+学习设计模式建议仍然以GoF的《设计模式》、《深入浅出设计模式》等经典数据为主。如果快速学习的话，可以参考网上的各种系列博客文章，如果恰好有MIS系统的开发经验，不妨参考下我的实现示例。
